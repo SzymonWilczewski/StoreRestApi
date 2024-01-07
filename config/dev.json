@@ -1,0 +1,4 @@
+{
+  "MONGO_HOST": "mongodb://dev:dev@mongo-dev:27017/dev",
+  "SESSION_SECRET": "secret"
+}

@@ -1,0 +1,4 @@
+{
+  "MONGO_HOST": "mongodb://prod:prod@mongo:27017/prod",
+  "SESSION_SECRET": "secret"
+}
